@@ -10,7 +10,7 @@ from src.modelo.vo.LoginBBDD import LoginBD
 from src.controlador.ControladorPrincipal import ControladorPrincipal
 
 
-
+#wkejsdfh
 if __name__ == "__main__":
     app = QApplication([])
     ventana = Login()
